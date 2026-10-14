@@ -12,7 +12,7 @@ TWILIO_AUTH_TOKEN = st.secrets["TWILIO_AUTH_TOKEN"]
 TWILIO_WHATSAPP_FROM = st.secrets["TWILIO_WHATSAPP_FROM"]
 TWILIO_CONTENT_SID = st.secrets["TWILIO_CONTENT_SID"]
 
-MODEL_NAME = "gemini-4-argon"
+MODEL_NAME = "gemini-3.8-flash"
 
 @st.cache_resource
 def get_gemini_client():
