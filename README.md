@@ -24,7 +24,7 @@ MacroSnap is an AI-powered nutrition assistant that analyzes meal descriptions a
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Harikrishna1408-nxtwave/macrosnap.git
 cd MacroSnap
 ```
 
